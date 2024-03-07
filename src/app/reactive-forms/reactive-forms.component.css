@@ -1,0 +1,55 @@
+.header{
+    text-align: center;
+    margin-top: 0;
+    padding: 0.15rem 0.25rem ;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100vh;
+  }
+
+form{
+    width: 40%;
+    background: rgb(229, 229, 239);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center;
+}
+
+input{
+    color: rgb(90, 87, 87);
+    background-color: transparent;
+    box-shadow: 0;
+    border: 0.1rem solid rgb(166, 166, 198);
+    margin-top: 0.35rem;
+    padding: 0.2rem 0.25rem;
+    backdrop-filter: blur(30px);
+
+}
+
+
+input.form-check-input{
+    background-color: aliceblue;
+    font-weight: 200;
+}
+/* 
+div{
+    text-align: center;
+} */
+
+label{
+    display: flex;
+    text-align: start;
+}
+
+.form-control{
+    font-weight: 300;
+}
