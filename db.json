@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Katniss",
+      "lastname": "Everdeen",
+      "email": "vek@inst.com"
+    },
+    {
+      "id": 2,
+      "firstname": "Katniss",
+      "lastname": "Everdeen",
+      "email": "vek@inst.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Katniss",
+      "lastname": "Everdeen",
+      "email": "vek@inst.com"
+    },
+    {
+      "id": 4,
+      "firstname": "Katniss",
+      "lastname": "Everdeen",
+      "email": "vek@inst.com"
+    }
+  ]
+}
